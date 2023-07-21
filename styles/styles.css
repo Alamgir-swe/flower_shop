@@ -1,0 +1,43 @@
+/*shard styles*/
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+/* main section styles */
+.header{
+    border: 12px;
+    width: 1920px;
+    height: 980px;
+    margin: 10px; 
+}
+header > ul{
+    display: flex;
+ width: 1900px;
+ height: 980px;
+ margin: 20px;
+ box-shadow: 200px;
+
+}
+/*footer*/
+footer{
+    display: flex;
+    background: color #111010; 
+    flex-shrink: 0;
+}
+.section-tittle{
+    color: #e55473;
+    font-family: lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 50%;
+    padding: 20px,50px;
+
+}
+social-links a {
+    
+}
